@@ -1,0 +1,4 @@
+# Titanic Survival Prediction – Data Cleaning
+
+## Objective
+The objective of this project is to clean and preprocess the Titanic dataset by handling missing values, encoding categorical variables, visualizing the age distribution, and exporting the cleaned dataset for further analysis or machine learning.
